@@ -1,11 +1,10 @@
-alpine:3.15
---platform=linux/arm64/v8 xiaoyaliu/alist
+alpine:3.15 --platform=linux/arm64/v8 
 
-centos:7
---platform=linux/arm64/v8 xiaoyaliu/alist
+#centos:7
+#--platform=linux/arm64/v8 xiaoyaliu/alist
 
-amazoncorretto:17.0.15-alpine3.21
---platform=linux/arm64/v8 xiaoyaliu/alist
+#amazoncorretto:17.0.15-alpine3.21
+#--platform=linux/arm64/v8 xiaoyaliu/alist
 
 
 
