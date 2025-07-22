@@ -1,4 +1,4 @@
-arm64v8/nginx:alpine
+--platform=linux/arm64/v8  nginx:alpine
 
 
 #nginx
