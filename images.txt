@@ -1,5 +1,4 @@
---platform=linux/arm64/v8  nginx:alpine
-
+multiarch/qemu-user-static:5.2.0-2
 
 #nginx
 #支持私库
