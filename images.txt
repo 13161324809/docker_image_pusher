@@ -1,7 +1,8 @@
---platform=linux/arm64/v8 mysql:8.0.39
---platform=linux/arm64/v8 redis:5.0.14
---platform=linux/arm64/v8 nacos/nacos-server:v2.2.3-slim
---platform=linux/arm64/v8 minio/minio:RELEASE.2023-03-24T21-41-23Z
+docker.io/calico/cni:v3.26.1
+docker.io/calico/cni:v3.26.1
+docker.io/calico/node:v3.26.1
+docker.io/calico/node:v3.26.1
+docker.io/calico/kube-controllers:v3.26.1
 
 #nginx
 #支持私库
@@ -17,3 +18,7 @@
 #--platform=linux/arm64/v8  alpine:3.15 
 #--platform=linux/arm64/v8 centos:7
 #--platform=linux/arm64/v8 amazoncorretto:17.0.15-alpine3.21
+#--platform=linux/arm64/v8 mysql:8.0.39
+#--platform=linux/arm64/v8 redis:5.0.14
+#--platform=linux/arm64/v8 nacos/nacos-server:v2.2.3-slim
+#--platform=linux/arm64/v8 minio/minio:RELEASE.2023-03-24T21-41-23Z
