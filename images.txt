@@ -1,5 +1,4 @@
-postgres
-sonarqube:8.9.3-community
+postgres:15-alpine
 
 #nginx
 #支持私库
