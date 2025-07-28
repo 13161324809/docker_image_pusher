@@ -1,4 +1,4 @@
-postgres:15-alpine
+sonarqube:10.4-community
 
 #nginx
 #支持私库
