@@ -1,4 +1,6 @@
-sonarqube:10.5-community
+--platform=linux/arm64/v8 centos:8
+--platform=linux/arm64/v8 rockylinux:8
+
 
 #nginx
 #支持私库
