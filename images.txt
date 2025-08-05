@@ -1,4 +1,4 @@
-python:3.9-slim-buster
+bitnami/python:3.9
 
 
 #kylin-server-v10sp1-micro-aarch64:2021051
