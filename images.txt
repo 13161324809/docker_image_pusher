@@ -1,4 +1,4 @@
-python:3.8-slim-buster  
+python:3.8
 
 
 #kylin-server-v10sp1-micro-aarch64:2021051
