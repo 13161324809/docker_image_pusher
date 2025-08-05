@@ -1,4 +1,4 @@
-bitnami/python:3.9
+python:3.9-slim-bookworm
 
 
 #kylin-server-v10sp1-micro-aarch64:2021051
