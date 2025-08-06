@@ -1,5 +1,4 @@
-python:3.8-ubuntu20.04
-
+python:3.8-slim
 
 #kylin-server-v10sp1-micro-aarch64:2021051
 #--platform=linux/arm64/v8 cr.kylinos.cn/kylin/kylin-server-v10sp2-micro-aarch64:20210524
