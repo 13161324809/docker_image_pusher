@@ -1,5 +1,4 @@
-python:3.8-slim-bookworm
-
+gitlab/gitlab-ce:14.0.8-ce.0
 
 
 
