@@ -1,4 +1,4 @@
-python:3.8-slim-buster
+python:3.8.20-bookworm
 
 
 
