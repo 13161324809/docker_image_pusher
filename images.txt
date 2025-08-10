@@ -1,6 +1,5 @@
-postgres
-lyzhang1999/frontend:latest
-lyzhang1999/backend:latest
+node:16-alpine
+python:3.8-slim-buster
 
 
 
