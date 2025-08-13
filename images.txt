@@ -1,5 +1,4 @@
-polinux/stress
-
+polinux/stress:2024.03
 
 
 #kylin-server-v10sp1-micro-aarch64:2021051
