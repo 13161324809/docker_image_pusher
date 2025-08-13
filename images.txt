@@ -1,4 +1,5 @@
-lyzhang1999/backend:latest
+quay.io/metallb/controller:v0.15.2
+quay.io/metallb/speaker:v0.15.2
 
 
 
