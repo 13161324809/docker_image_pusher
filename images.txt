@@ -1,4 +1,15 @@
-docker:24.0.7-dind
+gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.21.0@sha256:6ec2a6df146507411dfc7b853efd97e43fa5dcbe7e8d9aeb810b704dde3069a1
+gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.21.0@sha256:c260835027b2d5bfccef8221eed5fb4571a2a4cb843c5bdea006163ee1f617bf
+gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.21.0@sha256:bdaef43faede7bc05ded54387f2dee0a3a032710fe876cc17034e75b9faf758d
+gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.40.2@sha256:dc7bc7d6607466b502d8dc22ba0598461d7477f608ab68aaff1ff4dedaa04f81
+gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.40.2@sha256:6b8aadbdcede63969ecb719e910b55b7681d87110fc0bf92ca4ee943042f620b
+gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.29.2@sha256:67425f5fa32c591578ba6c8b6d4d6a135f8ca195745e023f3f311e3f1ee6ea37
+
+
+
+
+
+
 #kylin-server-v10sp1-micro-aarch64:2021051
 #--platform=linux/arm64/v8 cr.kylinos.cn/kylin/kylin-server-v10sp2-micro-aarch64:20210524
 
