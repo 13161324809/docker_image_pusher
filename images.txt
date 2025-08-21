@@ -1,5 +1,4 @@
-gitlab/gitlab-ce:16.6.7-ce.0
-
+docker:24.0.7-dind
 #kylin-server-v10sp1-micro-aarch64:2021051
 #--platform=linux/arm64/v8 cr.kylinos.cn/kylin/kylin-server-v10sp2-micro-aarch64:20210524
 
