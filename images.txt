@@ -1,5 +1,4 @@
-rustfs/rustfs:v0.5.2
-
+rustfs/rustfs:latest
 
 
 
