@@ -28,4 +28,5 @@ goharbor/trivy-adapter-photon:v2.13.2
 #--platform=linux/arm64/v8 mysql:8.0.39
 #--platform=linux/arm64/v8 redis:5.0.14
 #--platform=linux/arm64/v8 nacos/nacos-server:v2.2.3-slim
-#--platform=linux/arm64/v8 minio/minio:RELEASE.2023-03-24T21-41-23Z
+--platform=linux/arm64 minio/minio:RELEASE.2023-04-28T18-11-17Z
+
